@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    vertical-align: center;
+    background-color: blue;
+}
+.main{
+    text-align: center;
+    top: ;
+}
+.footer{
+    position: absolute;
+    padding-bottom: 5px;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    left:0%;
+    right:100%;
+    top: 100%;
+    font-size: 13px;
+}
